@@ -123,12 +123,20 @@
 <br/>
 
 <div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=router-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=router-hub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=router-hub&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
+<br/>
+
 <div >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=router-hub&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=router-hub&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=router-hub&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=router-hub&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 <br />
